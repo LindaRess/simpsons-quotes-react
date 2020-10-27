@@ -7,9 +7,9 @@ import QuoteForm from './components/QuoteForm';
 function App() {
   return (
     <div className="App">
-    <Navbar />
-    <QuoteForm />
-    <QuoteList />
+      <Navbar />
+      <QuoteForm />
+      <QuoteList />
     </div>
   );
 }
